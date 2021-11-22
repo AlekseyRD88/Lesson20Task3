@@ -18,6 +18,8 @@
    animation: blinking 2s infinite linear;
 }
 .circle {
+   display: flex;
+   margin: auto;
    width: 50px;
    height: 50px;
    border: 4px lightgrey solid;
